@@ -1,7 +1,7 @@
 
 
 
-* v1.6 - TBD - 
+**v1.6 - TBD**
 * 5+ cutscenes,
 * story,
 * more aesthetically-pleasing, 
