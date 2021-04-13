@@ -17,7 +17,7 @@
 * story complete,
 * possibly advertised.
 
-Visits:
+**Visits:**
 * 500 visits - 14 Feb 2018
 * 1,000 visits - 3 Mar 2018
 * 2,000 visits - 6 Mar 2018
