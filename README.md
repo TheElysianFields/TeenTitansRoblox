@@ -6,3 +6,4 @@ v1.6 update:
 * new story
 * ~~made difficult stages even easier~~
 * star counter
+
