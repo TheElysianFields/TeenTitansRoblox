@@ -2,14 +2,14 @@
 
 
 **v1.6 - TBD**
-* 5+ cutscenes,
+* 2/5 cutscenes,
 * story,
 * more aesthetically-pleasing, 
-* 11 stages (Stage 23-34), 
+* ~~11 stages (Stage 23-34), 
 * star counter,
-* maze stage overhaul,
+* ~~maze stage overhaul,
 * new story, 
-* made difficult stages even easier.
+* ~~made difficult stages even easier.
 
 **v2.0**
   TBD -
