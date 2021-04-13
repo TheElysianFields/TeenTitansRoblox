@@ -11,7 +11,7 @@
 * new story, 
 * made difficult stages even easier.
 
-**Version 2**
+**v2.0**
   TBD -
 * 17+ stages (33-50), 
 * story complete,
