@@ -1,6 +1,4 @@
-Hello, I'm Goodly58NEW, I create fun and entertaining games for my fans, hoping that not only will they enjoy it, but also get influenced or motivated to do the same! Follow me to message
 
-This Obby is for not only Teen Titans Go fans, but for everyone!
 
 **Changelog:**
 * v1.0 - 11 February 2018 - Added 16 stages
