@@ -1,16 +1,22 @@
-#Version 1.6
+Hello, I'm Goodly58NEW, I create fun and entertaining games for my fans, hoping that not only will they enjoy it, but also get influenced or motivated to do the same! Follow me to message
 
-**ShopKeeper Dialogue
+This Obby is for not only Teen Titans Go fans, but for everyone!
 
-"Hello fellow hero, would you like some snacks, or perhaps some some gamepasses?"
+**Changelog:**
+v1.0 - 11 February 2018 - Added 16 stages
+v1.1 - 12 February 2018 - Added 7 more stages (total 23 stages)
+v1.2 - 14 February 2018 - Fixed last stage
+v1.3 - 3 March 2018 - Fixed levels
+v1.4 - 6 March 2018 - Added winner rewards & fixed spawns
+v1.5 - 7 April 2021 - Added instant respawn, proximity prompt, a save and load feature, and made difficult levels easier. Fixed broken teleporters, added more NPCS.
+v1.6 - TBD - 5+ cutscenes, story, more aesthetically-pleasing, 11 stages (Stage 23-34), star counter, maze stage overhaul, new story, and made difficult stages even easier.
+v2 - TBD - 17+ stages (33-50), story complete, possibly advertised.
 
-User responds with Yes or no
+Visits:
+500 visits - 14 Feb 2018
+1,000 visits - 3 Mar 2018
+2,000 visits - 6 Mar 2018
+13,000 visits - 2021
+14,000 visits - 12/4/2021
 
-If user responds with no "Oh ok, see ya later"
-
-If user responds with yes "We have two gamepasses right now.
-the fusion coil is a speed and gravity coil combined into one, it 
-can help make your time going through all of this easier," 
-
-The other gamepass is a gravity coil, it allows you to reach new heights, and if a part
-struggles you, you can skip it.**
+v1.6 update: 2/5 cutscenes, more aesthetically-pleasing, ~~11 stages (Stage 23-34), star counter, maze stage overhaul~~ , new story, and ~~made difficult stages even easier~~ .
